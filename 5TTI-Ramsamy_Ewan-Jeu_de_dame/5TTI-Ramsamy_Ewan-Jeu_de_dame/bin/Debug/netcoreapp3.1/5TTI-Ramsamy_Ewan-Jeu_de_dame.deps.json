@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "5TTI-Ramsamy_Ewan-Jeu_de_dame/1.0.0": {
+        "runtime": {
+          "5TTI-Ramsamy_Ewan-Jeu_de_dame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5TTI-Ramsamy_Ewan-Jeu_de_dame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
